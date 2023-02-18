@@ -1,0 +1,109 @@
+
+
+Proposed Improvements to Cyber Security Facilities at OSU
+
+—An Investigation into the Feasibility of Bokashi Composting at OSU
+
+Prepared for Mr. Jacky Chan, OSU Special Projects Office
+
+Submitted by Taijen Ave-Lallemant
+
+Submitted on Monday, February 20, 2023
+
+Wr 327 winter term 2023 section# [XYZ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABSTRACT
+
+     The scope of the following Investigative Research Project (IRP) Report is limited to research activities undertaken in Wr 327 Technical Writing during winter term 2023. Activities included a four-phase methodology consisting of brainstorming among peers, web and OSU library research, and personal observation and other information exchanges. The results of this activity are brought together in the report’s Discussion section, which states that building and operating a cyber security practice server would be an effective way of improving OSU’s cyber security, cyber security facilities, and reputation. Finally, this report recommends that OSU’s Special Projects Office fund a pilot project of one server that would be hosting virtual machines used for capture the flag challenges and the testing of potentially dangerous software— this server would be a cabinet with shelves for server racks built in Kelly Engineering Center on the OSU campus. Students with an interest in cyber security would be paid to work on the pilot project, with the projects results being used to attract more people to cyber security in general and at OSU.
+
+
+INTRODUCTION
+
+The mission of OSU’s Undergraduate IRP (Investigative Research Project) Initiative is to identify educational opportunities for students through project management. Projects recommended through the 2023 IRP Initiative must focus on “improvements to the student experience at Oregon State University in Corvallis.” IRP Reports must be prepared specifically for Mr. Jacky Chan of the OSU Special Projects Office, 640A Kerr Administration Building, Corvallis, OR 97311. To be considered for project implementation during the 2023 calendar year—student IRP Reports should be submitted before the deadline of Mon20Feb2023 at 11:59 PM.
+
+All submitted IRP Reports should limit the scope of their recommendations to pilot projects with a budget of $5,000 or less. All IRP Reports must include evidence of preliminary research that supports both educational opportunities and improvements to the OSU-Corvallis, -Newport, -Bend or online campus. It is understood that the preliminary research that supports all IRP recommendations will be based on Wr327 class activities that include brainstorming among peers, cited web research, cited OSU library research, and personal observations/information exchanges, which may include informal interviews, conversations, online blogs, or other forms of social networking.
+
+Student Introduction: Taijen Ave-Lallemant, an Oregon State University junior majoring in Computer Science, has compiled an Investigative Research Project (IRP) Report that explores options for “Improving Cyber Security and Cyber Security Education at OSU.” Taijen Ave-Lallemant recommends that OSU’s Special Project Office fund a pilot project to explore the benefits of building a cyber security practice server for students at OSU—with cyber security threats becoming so large that major world governments and institutions such as OSU are attacked daily. OSU has been given $5 million in order to deal with the rising threat of cyber-attacks and to bolster its security. Furthermore, experience in attacking and defending roles and experience in capture the flag (CTF) challenges are very sought after in the professional world of cyber security. OSU students stand to gain experience in both defending and attacking roles which will benefit their careers. OSU itself also stands to gain in reputation and in security as a more educated student body will be less of a security risk. We are proposing that this Cyber Security Practice Server pilot project construction take place during the summer quarter 2023 at OSU’s Kelly Engineering Center.
+
+The Methodology, Results, Discussion, and Conclusion sections that follow describe the basic research undertaken for this report. Further information in the form of a Formal Project Proposal may be requested.
+
+Methodology
+
+Phase 1: IRP Brainstorming--Document/Discussions/Peer Review Activity
+1. Individual Exercise: Summarize your exploration of web sites related to your chosen topic and how you might apply this topic to suggest improvements to the student experience at OSU-online, Corvallis, Bend, or Newport. I conducted the following Google searches: “What Cyber Security Employers look for”, “Best Skills for Cyber Security Applicants,” and from the Oregon State University portal: “Penetration Testing.”  
+2. Individual Exercise: Reflect on your personal experiences related to the need for such an improvement at OSU-online, Corvallis, Bend, or Newport. As someone getting into cyber security with an interest in penetration testing I have found that there are a lot of skills that are very valuable in the field that a OSU does not offer many ways to learn skills in penetration testing. This combined with many employers in that field wanting some experience before hiring led me to want to find a way that that could be found.
+3. Group Exercise: Brainstorm within your group/among your peers, discussing the improvement you might recommend ($5K Pilot Project)—an improvement to the student experience at OSU-Online, Corvallis, Bend, or Newport. Document this discussion. During brainstorming, a server that could be used for practicing penetration testing techniques that would be used on jobs in the future.
+
+Phase 2: Web Search of OSU Topic Options.
+4. Individual Exercise: Conduct a web search for sites that help to describe your ideas for cyber security practice solutions that would be applied at OSU-online, Corvallis, Bend, or Newport —document your search criteria. Conducted Google searches: “What are the benefits of CTFs,” and “How to build a server.”
+5. Individual Exercise: Identify a Short List of Two Relevant Web Sites—by topic and include the URL. Benefits of CTFs at this link: “https://avatao.com/blog-the-main-benefits-of-ctf-competitions/” AND a guide to building a server and the cost: https://techjury.net/blog/how-to-build-a-server/#gref 
+6. Individual Exercise: Summarize the content of both web sites. Capture the Flag challenges are a very important part in the development of any penetration testing career and a very useful part of cyber security careers. These challenges can be hosted in a variety of places and used to practice. Servers could be used to host these. Servers usually are very useful and typically go for a starting minimum of $1000.
+
+Phase 3: OSU Library Online Search—conduct a search for reference materials related to chosen IRP topic 
+7. Individual Exercise: Identify search methods—document search criteria used. Searched OSU Library using this search phrase: “Penetration testing practice” and “Cyber security practice server”
+8. Individual Exercise: Identify a short list of two relevant sources. Found: 1) E-book: “Building virtual penetration testing labs for advanced penetration testing: build intricate virtual architecture to practice any penetration testing technique virtually”; 2) E-book: “Linux server security: hack and defend.”
+9. Individual Exercise: Summarize additional source searches, such as Amazon books. On Amazon, found a wide variety Cyber security books similar to this one: “Practice makes perfect. Creation of penetration testing laboratory, procedures and tools, start to finish”
+
+Phase 4: Personal Observation/ Information Exchanges
+10. Individual Exercise: From memory, web-views, or personal interviews/discussions, make a short list of 5 OSU-topic-related observations—these may also suggest options for further inquiries related to your topic.   Short List: 1) Single user testing environments are slow and resource expensive; 2) Testing malware and scripts on one’s personal device can lead to damages that otherwise could be avoided; 3) There is currently nowhere for students to safely practice penetration testing techniques or tools; 4) Learning penetration testing techniques without an environment is much harder and takes significantly more time; 5) Servers using virtual machines allow multiple users to connect and practice without effecting other users or other systems at large.
+11. Individual Exercise: Make a short list of 5 interview questions related to your topic. Short List: a) Do you know what penetration testing is? b) What are your most used pen testing tools? c) What kind of environment do you use to practice? d) Do you participate in CTF challenges?  e) How often does your testing environment need repairing and how long does it usually take?
+12. Individual/Group Exercise: Brainstorm/Document options for OSU improvements within a $5K budget. A possible pilot project: A server dedicated to cyber security students. Server would be used for hosting CTF challenges featuring both red team and blue team objectives. Server would ideally also have VM’s set up as testing ranges for scripts and potential malware.
+
+RESULTS
+
+Phase 1: IRP Brainstorming
+Cyber Security is the practice of defending networks and machines from digital attack vectors. During brainstorming, a pilot project for offering experience to Cyber Security students at OSU to defend from such vectors that could be completed during summer 2023 was conceived; a server that could be used for practicing penetration testing techniques that would be used on jobs in the future. To understand that, the following Google searches were conducted: “What Cyber Security Employers look for”, “Best Features for Penetration Testing Applicants,” and from the Oregon State University portal: “Penetration Testing”. Summarized from “courseia.org”, some of the most attractive features for penetration testing applicants to acquire are “experience in real and simulated environments, skills in Linux, Windows, and Mac OS environments, and experience with security assessment tools such as Nmap, Nessus, and Burp Suite.” The project would be beneficial to both students and Oregon State University. This is true because it allows students hands on experience with real-world technologies used in the workplace, bolstering the reputation of OSU’s Computer Science programs.
+
+Phase 2: Web Search of OSU Topic Options
+A small-scale pilot project that could be used to host CTF challenges that would allow for students to practice penetration testing techniques would be a fantastic education project for OSU. First, it would benefit the students in learning how to perform offensive red-team strategies such as finding vulnerabilities and using them to gain access to critical system components and data. Students would also learn how to perform defensive blue-team strategies such as system hardening. Second, this would benefit OSU by creating more competent and experienced alumni that would strengthen OSU’s Cyber Security program. As a part of the research of this project, one must understand the challenges and costs of building a server.
+
+Phase 3: OSU Library Online Search
+From searches of Google, Amazon, the OSU Valley Library and the OSU Portal, two E-books were located that are relevant to this project. “Building virtual penetration testing labs for advanced penetration testing: build intricate virtual architecture to practice any penetration testing technique virtually” and “Linux server security: hack and defend.”
+1.	“Building virtual penetration testing labs for advanced penetration testing: build intricate virtual architecture to practice any penetration testing technique virtually,” Cardwell, Kevin (2014). The abstract of this E-book states “Written in an easy-to-follow approach using hands-on examples, this book helps you create virtual environments for advanced penetration testing, enabling you to build a multi-layered architecture to include firewalls, IDS/IPS, web application firewalls, and endpoint protection, which is essential in the penetration testing world.”
+2.	“Linux server security: hack and defend.” Binnie, Christopher (2016). “ By increasing your understanding of a hacker's tools and mindset you're less likely to be confronted by the all-too-common reality faced by many administrators these days: someone else has control of your systems.”
+
+Phase 4: Personal Observation/ Information Exchanges
+As an area of Cyber Security research, a server for students to practice on would complement existing educational programs at OSU. Currently there is no dedicated server for practicing penetration testing techniques and software usage, and a dedicated server for such things would greatly benefit OSU’s students so they can get experience in real and simulated environments, and skills in Linux.
+
+
+
+
+
+
+DISCUSSION
+     Based upon our research regarding ways to improve “best practices for reducing food waste at Oregon State University,” we are proposing during summer quarter 2023 that a Bokoshi composting pilot project be staged at OSU’s Oak Creek Center for Urban Horticulture. As proposed, this Bokoshi composting pilot project would demonstrate a low-tech, efficient, and scalable method for composting all kitchen food waste, including meat and dairy. This proposed pilot project would also demonstrate that Bokashi composting in only four weeks’ time produces a very high-quality soil amendment.
+     Bokashi composting is an anaerobic fermentation technique that likely originated in Korea, where “deliberate collection and culturing of naturally occurring soil microorganisms has been a common agricultural practice for centuries; and application of these cultures to crop soils is believed to minimize the need for applications of inorganic soil amendments” (Park and DuPonte, 2010). Scientific studies are available to validate the benefits of mainstream composting techniques-- aerobic (oxygen-based) composting and vermiculture (worm) composting—but “no such body of work yet exists for Bokashi—which is a technique using beneficial microbes that flourish in anaerobic, acidic environments” (Planet Natural Research Center, 2017).
+     Large-scale, commercially viable methods for composting food wastes (that include meat and dairy) are still being developed in the state of Oregon—and currently only select customers in the OSU-Corvallis area are eligible for such a service from our local garbage company (Republic Services, 2020).  Where this service in unavailable, food wastes usually go into the trash. Bokashi composting is an excellent alternative to discarding food waste into the trash—because such discarded food waste ends-up in the landfill, producing methane gas. According to the US-EPA, methane gases generated by US landfills are the third highest source for atmospheric greenhouse gases (United States Environmental Protection Agency, 2020).
+     As an environmental benefit for OSU—and as excellent opportunity for an education exploration of a classic method of recycling food wastes—we are proposing two Bokashi composting options for summer of 2023:
+•	Option 1: At the Oak Creek Center for Urban Horticulture conduct a pilot study of 3 complete Bokashi composting cycles using six 5-gallon Bokashi buckets with the waste trenched into multiple garden locations near multiple crops—with photo documentation of plant growth and waste decomposition during the growing cycle. Food wastes (including meat and dairy) would be generated through three onsite dinners to benefit the Sustainability programs at OSU.
+•	Option 2:  At the Oak Creek Center for Urban Horticulture conduct a pilot study of 3 complete Bokashi composting cycles using three 55-gallon Bokashi buckets with the waste trenched into multiple garden locations near multiple crops—with photo documentation of plant growth and waste decomposition during the growing cycle. Food wastes (including meat and dairy) would be generated through three onsite dinners to benefit the Sustainability programs at OSU.
+ 	 
+Pacific Region Compost (PRC) at Coffin Butte Landfill, Corvallis—offers composting of residential/commercial food wastes mixed with yard debris. Available only to some customers, this 90-day composting process requires 150 °F heat plus sorting, grinding and aeration by repeated turning of the piles.	The Bokashi Composting Starter Kit—available from Amazon for $139.50 with free shipping: Each set includes: 2 waste buckets, 1kg Bokashi bran, 2 drainage taps, 2 lids, 2 strainers, a scoop, a mashing utensil, a drain cup, and a user guide. Made of 100% recycled plastic.
+
+
+Conclusion (with Recommendations)
+
+     A scalable server that can host virtual machines would be ideal. While there are options that are cheaper there are features that would be very beneficial. Features such as scalability, larger storage space, and greater available resources. Such features are greatly beneficial with a server with this purpose, allowing for hosting more Virtual machines and a greater capacity for students practice. Its for those reasons that we recommend option #2:
+•	The second option would be to create a whole new server similar to some of the other servers that OSU already has. While this option is more expensive it does come with some benefits, firstly it would allow far more VM's to be hosted on it. Another benefit is that a more powerful server could be used to host region wide CTF challenges and competitions which would bolster the reputation of OSU.
+After studying the topic extensively it has become apparent to that implementing such a server would be not only possible but a task OSU has already completed before. The creation of such a server would be simple given that proper space can be found, luckily there is ample space in multiple buildings at OSU such as PFSC.
+     Some of the pricing is variable such as the price of the server. The cost of labor for this project is rather low, such a project can realistically be built and setup in an 8 hour workday by a tech help desk team. At OSU tech help desk employees get paid a starting wage of $14/hour, 3 members could do the task so 3 * (14 * 8) = $336. Assuming that option 1 is chosen a price of about $5000 total can be assumed.
+
+
+     In conclusion this server would be very beneficial not only to OSU’s students by creating a place for them to practice and develop their skills. This server would also be beneficial to OSU because developing the skills of their students will raise the reputation of Oregon State University as a whole. Because of these reasons it seems clear that OSU gains to benefit from such a project.
